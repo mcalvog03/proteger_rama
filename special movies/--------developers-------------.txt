@@ -1,0 +1,4 @@
+Miguel Calvo Gómez: graphic designer,developer,style sheet developer
+ Gerónimo Rafael Reina García: developer,documenter,rss sheet developer
+jorge pardo: developer,rss sheet editor,xml sheet developer
+juan pardo developer,style sheet developer
